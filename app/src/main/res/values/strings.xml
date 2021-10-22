@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">openEduProj2Kotlin</string>
+    <string name="intro">Intro to Android DEV</string>
+    <string name="second_activity">This is the second activity</string>
+</resources>
